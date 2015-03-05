@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"/>
+    <title>SVG DEMO</title>
+    <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+<!-- svg lab content -->
+<svg id="demo">
+
+    <!-- 初始的圆 -->
+    <circle cx="50" cy="150" r="20" stroke="#2c3e50" fill="#c0392b" stroke-width="0" id="initCircle">
+    </circle>
+
+    <!-- 手指放开时所在位置的圆 -->
+    <circle cx="150" cy="100" r="30" stroke="#2c3e50" fill="#c0392b" stroke-width="0" id="finalCircle">
+    </circle>
+
+    <!-- 连接两个圆的path路径，动画核心 -->
+    <path d="" stroke-width="0" fill="#c0392b" stroke="rgba(0,0,0,0)" id="animationPath"></path>
+</svg>
+</body>
+<script src="svg.js"></script>
+</html>
