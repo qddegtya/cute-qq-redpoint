@@ -8,4 +8,4 @@ SVG实现新版手机QQ的手势消除红点消息的动画Demo
 
 ### 演示
 
-!('演示')[preview.gif '演示']
+!(演示)[/preview.gif "演示"]
