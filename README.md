@@ -16,6 +16,8 @@ SVG实现新版手机QQ的手势消除红点消息的动画Demo
 
 ![演示](/preview.gif "演示")
 
+手机打开：![](http://codepen.io/qddegtya/details/EapGWK)
+
 ### TODO
 
 初始圆点变小的动画/弹性系数
