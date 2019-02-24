@@ -1,6 +1,6 @@
 # cute-qq-redpoint
-SVG+JS实现新版手机QQ的手势消除红点消息的动画。
-可以打开手机QQ，在底部菜单消息一栏的红点上进行拖拽体验。
+SVG+JS 实现新版手机 QQ 的手势消除红点消息的动画。
+可以打开手机 QQ，在底部菜单消息一栏的红点上进行拖拽体验。
 本插件欲实现的就是这个效果。
 
 # 相关原理
@@ -13,7 +13,7 @@ SVG+JS实现新版手机QQ的手势消除红点消息的动画。
 
 ![图片演示](/preview.gif "图片演示")
 
-[codepen在线Demo](http://codepen.io/qddegtya/details/EapGWK "Demo")
+[codepen 在线 Demo](http://codepen.io/qddegtya/details/EapGWK "Demo")
 
 # TODO
 
